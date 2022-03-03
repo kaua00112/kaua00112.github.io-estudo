@@ -1,2 +1,2 @@
 # kaua00112.github.io-estudo
-site do meu estudo em html e css
+site responsivo do meu estudo em html e css
